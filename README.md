@@ -1,8 +1,8 @@
 ### Hi there! I'm Scott, welcome to my GitHub. 
 
 ### About Me 🚀
-💻I am an apprentice DevOps Engineer & Salesforce Developer, with experiance in QA
-⚡I have experiance in Python , Java , Apex ,JavaScript
+💻I am an apprentice DevOps Engineer & Salesforce Developer, with experiance in QA</br></br>
+⚡I have experiance in Python , Java , Apex ,JavaScript </br></br>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scottamass&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
