@@ -1,4 +1,4 @@
-### Hi there! I'm Scott, welcome to my GitHub. 
+### Hello There there! I'm Scott, welcome to my GitHub. 
 
 ### About Me 🚀
 💻I am an apprentice DevOps Engineer & Salesforce Developer, with experiance in QA</br></br>
